@@ -1,3 +1,3 @@
 # LandingPage
 
-###This is some fun HTML/CSS practice 
+###This is some fun HTML/CSS practice with SCSS and CodeKit !!!
